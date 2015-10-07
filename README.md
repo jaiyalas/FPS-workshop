@@ -24,6 +24,15 @@
 |    TBA            | Haskell 回顧 II (大約到 monad) |
 |    TBA            |    TBA   |
 
+## Reference
 
+Libraries:
+
+* [Elm](http://elm-lang.org/)
+* [Elerea](https://hackage.haskell.org/package/elerea)
+
+Comparison:
+
+* [FRP-Zoo](https://github.com/gelisam/frp-zoo)
 
 
