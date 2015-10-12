@@ -1,48 +1,3 @@
-## graphics/ui low-level binding
-
-#### [gl](https://hackage.haskell.org/package/gl)
-
-+ Complete OpenGL raw bindings 
-+ [Ekmett](https://github.com/ekmett/gl)!!
-+ May 13 2015
-
-#### [OpenGL](https://hackage.haskell.org/package/OpenGL)
-
-+ binding for the OpenGL graphics system
-+ far too low level
-+ [github](https://github.com/haskell-opengl/OpenGL)
-+ Aug 19 2015
-
-#### [gtk](https://hackage.haskell.org/package/gtk)
-
-+ core library of the Gtk2Hs
-+ [github (gtk2hs)](https://github.com/gtk2hs/gtk2hs)
-+ Jul 12 2015
-
-## 3D libraries (low-level engine)
-
-#### [HGamer3D](https://hackage.haskell.org/package/HGamer3D)
-
-+ 3D game engine (graphics)
-+ [http://www.hgamer3d.org/](http://www.hgamer3d.org/)
-+ available on Windows and Linux
-+ Oct 3 2015
-
-#### [LambdaCube](https://hackage.haskell.org/package/lambdacube-core)
-
-+ Purely Functional Rendering Engine (eDSL)
-+ agda!!!
-+ [website](http://lambdacube3d.com/) [blog](https://lambdacube3d.wordpress.com/) 
-+ [github (smaples included)](https://github.com/lambdacube3d/lambdacube-edsl)
-+ [getting start!](https://lambdacube3d.wordpress.com/getting-started/)
-+ Dec 9 2014
-
-#### [GLUT](http://hackage.haskell.org/package/GLUT)
-
-+ binding for the OpenGL Utility Toolkit
-+ [github](https://github.com/haskell-opengl/GLUT)
-+ Aug 19 2015
-
 ## 2D libraries (low-level engine)
 
 #### [fwgl](https://hackage.haskell.org/package/fwgl)
@@ -87,6 +42,30 @@
 + [source (example included)](http://code.haskell.org/GLFW/)
 + Jul 6 2015
 
+## 3D libraries (low-level engine)
+
+#### [HGamer3D](https://hackage.haskell.org/package/HGamer3D)
+
++ 3D game engine (graphics)
++ [http://www.hgamer3d.org/](http://www.hgamer3d.org/)
++ available on Windows and Linux
++ Oct 3 2015
+
+#### [LambdaCube](https://hackage.haskell.org/package/lambdacube-core)
+
++ Purely Functional Rendering Engine (eDSL)
++ agda!!!
++ [website](http://lambdacube3d.com/) [blog](https://lambdacube3d.wordpress.com/) 
++ [github (smaples included)](https://github.com/lambdacube3d/lambdacube-edsl)
++ [getting start!](https://lambdacube3d.wordpress.com/getting-started/)
++ Dec 9 2014
+
+#### [GLUT](http://hackage.haskell.org/package/GLUT)
+
++ binding for the OpenGL Utility Toolkit
++ [github](https://github.com/haskell-opengl/GLUT)
++ Aug 19 2015
+
 ## image processing
 
 #### [friday](https://hackage.haskell.org/package/friday)
@@ -115,3 +94,24 @@
 + [github](https://github.com/tobbebex/GPipe-Core)
 + [tutorial](http://tobbebex.blogspot.se/2015/09/gpu-programming-in-haskell-using-gpipe.html)
 + Sep 30 2015
+
+## graphics/ui low-level binding
+
+#### [gl](https://hackage.haskell.org/package/gl)
+
++ Complete OpenGL raw bindings 
++ [Ekmett](https://github.com/ekmett/gl)!!
++ May 13 2015
+
+#### [OpenGL](https://hackage.haskell.org/package/OpenGL)
+
++ binding for the OpenGL graphics system
++ far too low level
++ [github](https://github.com/haskell-opengl/OpenGL)
++ Aug 19 2015
+
+#### [gtk](https://hackage.haskell.org/package/gtk)
+
++ core library of the Gtk2Hs
++ [github (gtk2hs)](https://github.com/gtk2hs/gtk2hs)
++ Jul 12 2015
