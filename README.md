@@ -21,7 +21,7 @@
 |   日期   |   主題   |
 | -------- | -------- |
 |    14 Oct, 2015   | Haskell setup + Chapter 1 |
-|    TBA            | Chapter 2 |
+|    04 Nov, 2015   | Chapter 2 |
 |    TBA            |    TBA   |
 
 ## Reference
