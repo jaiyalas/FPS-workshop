@@ -21,8 +21,12 @@
 |   日期   |   主題   |
 | -------- | -------- |
 |    14 Oct, 2015   | Haskell setup + Chapter 1 |
-|    04 Nov, 2015   | Chapter 2 |
-|    TBA            |    TBA   |
+|    11 Nov, 2015   | Chapter 2 - FRP(Elerea) |
+|    02 Dec, 2015   |    TBA   |
+
+## 記錄
+
+...
 
 ## Reference
 
@@ -35,7 +39,7 @@
 | [Reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana) | Aug 27 2015 |
 | [Netwire](http://hub.darcs.net/ertes/netwire) | Dec 30 2014 |
 | [Elerea](https://github.com/cobbpg/elerea) | Nov 22 2014 |
-| [Elm](http://elm-lang.org/) | Sep 22 2014 | 
+| [Elm](http://elm-lang.org/) | Sep 22 2014 |
 ### 套件(Game dev)
 
 |    名字   |   說明   | 使用技術 | 最後更新 |
@@ -62,7 +66,3 @@
 | [FRP-Zoo](https://github.com/gelisam/frp-zoo) | . |
 | [Game Development (haskellwiki)](https://wiki.haskell.org/Game_Development) | . |
 | [L-system](https://en.wikipedia.org/wiki/L-system) | . |
-
-
-
-
